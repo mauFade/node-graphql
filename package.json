@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev:simple": "tsnd --respawn --transpyle-only server.ts"
+    "dev:simple": "tsnd src/server.ts"
   },
   "keywords": [],
   "author": "",
